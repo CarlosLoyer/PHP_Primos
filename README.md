@@ -48,6 +48,7 @@ Módulos Composer:
 Requerimientos externos:
 
 - Cygwin
+- xampp (todo la ejecución se realizó sobre apache de xampp, en SO Windows)
 
 Debido a que la instalación de PHPUnit utiliza un script escrito en base de Linux, se requiere Cygwin para simular el entorno de Linux. Por lo tanto, se requiere descargar desde el sitio http://cygwin.com/ y reiniciar el SO. 
 
