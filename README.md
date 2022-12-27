@@ -44,6 +44,14 @@ Módulos Composer:
 - PHPUnit
 - Guzzlehttp
 		
+-------------------------
+Requerimientos externos:
+
+- Cygwin
+
+Debido a que la instalación de PHPUnit utiliza un script escrito en base de Linux, se requiere Cygwin para simular el entorno de Linux. Por lo tanto, se requiere descargar desde el sitio http://cygwin.com/ y reiniciar el SO. 
+
+
 -------------------------		
 UnitTests:
 
